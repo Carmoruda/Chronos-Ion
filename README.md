@@ -39,7 +39,7 @@ The board is designed to be:
 <p align="center">Collaboration from the open-hardware and embedded community is welcome. For major changes, please open an issue first to discuss what you'd like to change.</p>
 
 <h3 align="center">License</h3>
-<pre align="center">Copyright © 2026 Carmen &lt;your name or username&gt;<br><br>This is an open-hardware project released under two permissive licences:<br><br>Firmware &amp; documentation — MIT License<br>Hardware design files (KiCad) — CERN-OHL-P v2<br><br>See <a href="./LICENSE.md">LICENSE.md</a> for the full details.</pre>
+<pre align="center">Copyright © 2026 Carmen<br><br>This is an open-hardware project released under two permissive licences:<br><br>Firmware &amp; documentation — MIT License<br>Hardware design files (KiCad) — CERN-OHL-P v2<br><br>See <a href="./LICENSE.md">LICENSE.md</a> for the full details.</pre>
 
 <h3 align="center">Credits &amp; Team</h3>
 <p align="center">Built and maintained by Carmen :)</p>
