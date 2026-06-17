@@ -7,7 +7,7 @@ An open-hardware desk clock with alarm. Time and current, on a single board.
     <img src="https://img.shields.io/badge/Software-KiCad-blue" alt="KiCad">
     <img src="https://img.shields.io/badge/Firmware-C%2FC%2B%2B%20(Arduino)-orange" alt="Firmware">
     <br>
-    <img src="https://img.shields.io/badge/Firmware%20licence-MIT-green" alt="MIT">
+    <img src="https://img.shields.io/badge/Firmware%20licence-MIT-red" alt="MIT">
     <img src="https://img.shields.io/badge/Hardware%20licence-CERN--OHL--P-blue" alt="CERN-OHL-P">
 </p>
 
