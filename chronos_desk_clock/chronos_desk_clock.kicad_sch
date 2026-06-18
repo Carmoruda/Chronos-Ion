@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c103e411-e12c-4f94-b45d-e17a7f2e5bf0")
+	(paper "A4")
+	(title_block
+		(title "Chronos Ion - Desk Clock")
+		(date "2026-06-18")
+		(rev "A")
+		(company "C.M.U")
+		(comment 1 "HW: CERN-OHL-P v2 · FW: MIT")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
